@@ -1,5 +1,5 @@
 {
-  "name": "task",
+  "name": "firebase-task",
   "version": "1.0.0",
   "description": "task",
   "main": "./lib/task.js",
